@@ -1,0 +1,5 @@
+ resource_group_name     ="mytestrg"
+ location                ="East US"
+ storage_account_name    ="myteststorageac"
+ access_tier             ="standard"
+ account_replication_type="GRS"
